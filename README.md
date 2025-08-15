@@ -36,11 +36,30 @@ This project involves designing a **4-layer PCB** for an **STM32F407 ARM-based h
 
 ---
 
-## 📸 Preview
-*(Add PCB renders or schematic screenshots here)*
+## 📸 Images
+
+**Top View**  
+![Top View](top-view.png)
+
+**Bottom View**  
+![Bottom View](bottom-view.png)
+
+**3D View**  
+![3D View](3d-view.png)
+
+---
+
+## 🛠 Tools & Software Used
+- PCB Designing Software: **Altium Designer 16**
 
 ---
 
 ## 📜 License
-This project is shared for educational purposes. Please give credit if you use or modify it.
+This project is shared for educational purposes. Please give credit if you use it.
 
+---
+
+## 📬 Contact
+If you have feedback or suggestions, feel free to [open an issue](https://github.com).
+
+---
