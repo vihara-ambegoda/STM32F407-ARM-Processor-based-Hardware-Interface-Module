@@ -1,6 +1,8 @@
 # STM32F407 ARM Processor-based Hardware Interface Module Designing
 
-This project involves designing a **4-layer PCB** for an **STM32F407 ARM-based hardware interface module** using **Altium Designer 16**. The work covers schematic creation, custom component library development, PCB layout, and manufacturing file generation.
+This project involves designing a **4-layer PCB** for an **STM32F407 ARM-based hardware interface module** using **Altium Designer 16**. 
+The work covers schematic creation, custom component library development, PCB layout, and manufacturing file generation.
+It was completed as a **task assigned during my internship** at Premium International.
 
 ---
 
@@ -22,7 +24,7 @@ This project involves designing a **4-layer PCB** for an **STM32F407 ARM-based h
    - Reviewed STM32F407 datasheet, identified pin configurations & peripheral requirements
 
 2. **Schematic Design**
-   - Created separate schematic sheets for power, communication, and microcontroller configurations
+   - Created separate schematic sheets for power, communication, microcontroller configurations, i/o and memory configurations.
    - Added JTAG, USB, voltage regulator, and crystal oscillator circuits
    - Used custom libraries for missing components
 
@@ -37,6 +39,9 @@ This project involves designing a **4-layer PCB** for an **STM32F407 ARM-based h
 ---
 
 ## 📸 Images
+
+**Schematics**  
+![Schematics](schematics.png)
 
 **Top View**  
 ![Top View](top-view.png)
