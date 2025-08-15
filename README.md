@@ -2,7 +2,7 @@
 
 This project involves designing a **4-layer PCB** for an **STM32F407 ARM-based hardware interface module** using **Altium Designer 16**. 
 The work covers schematic creation, custom component library development, PCB layout, and manufacturing file generation.
-It was completed as a **task assigned during my internship** at Premium International.
+This project was completed in 2021 as a **task assigned during my internship** at Premium International.
 
 ---
 
