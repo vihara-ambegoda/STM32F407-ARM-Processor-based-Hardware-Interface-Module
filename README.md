@@ -1,6 +1,4 @@
-# STM32F407-ARM-Processor-based-Hardware-Interface-Module
-
-STM32F407 ARM Processor-based Hardware Interface Module PCB Designing
+# STM32F407 ARM Processor-based Hardware Interface Module Designing
 
 This project involves designing a **4-layer PCB** for an **STM32F407 ARM-based hardware interface module** using **Altium Designer 16**. The work covers schematic creation, custom component library development, PCB layout, and manufacturing file generation.
 
@@ -8,14 +6,13 @@ This project involves designing a **4-layer PCB** for an **STM32F407 ARM-based h
 
 ## 📌 Features
 - **Microcontroller:** STM32F407 (LQFP100 package)
-- **PCB Type:** 4-layer board (Top, Inner 1, Inner 2, Bottom)
+- **PCB Type:** 4-layer board
 - **Design Software:** Altium Designer 16
 - **Approach:** Hierarchical *Flat Design* using multi-sheet schematics
 - **Interfaces Included:**
   - JTAG (Joint Test Action Group)
   - USB (Universal Serial Bus)
 - **Custom Libraries:** Created schematic symbols & footprints for unavailable components
-- **Routing:** Auto-router (due to time constraints)
 
 ---
 
@@ -33,7 +30,6 @@ This project involves designing a **4-layer PCB** for an **STM32F407 ARM-based h
    - Defined board shape and set 4-layer stackup
    - Placed components on both sides of PCB
    - Adjusted routing widths for connectors
-   - Used auto-routing to complete connections
 
 4. **Manufacturing Output**
    - Generated assembly drawings, drill files, and 3D views
